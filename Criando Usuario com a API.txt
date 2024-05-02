@@ -1,0 +1,23 @@
+create user
+{
+  "email": "izabelly13@yahoo.com",
+  "password": "Numsey#2024",
+  "confirmPassword": "Numsey#2024"
+}
+
+loginuser
+
+{
+  "email": "izabelly13@yahoo.com",
+  "password": "Numsey#2024"
+}
+
+TOKEN 
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Iml6YWJlbGx5MTNAeWFob28uY29tIiwibWV1VG9rZW4iOiJ0b2tlbiBkYSBpemFiZWxseSIsImp0aSI6ImZlNzNlMGZlLWY1NzctNDE1Mi05MzhlLTkyNTYwYTI0OGIyOCIsImV4cCI6MTcxNDYwNTI4NywiaXNzIjoiaHR0cDovL2l6YWJlbGx5Lm5ldCIsImF1ZCI6Imh0dHA6Ly9pemFiZWxseS5uZXQifQ.t450wo64nFnY9Uhw0B0ImDhhtykuw69QinesKf3US74
+
+Chave Secreta 
+
+abracadabra#simsalabim@2024
+
+http://localhost:3000
